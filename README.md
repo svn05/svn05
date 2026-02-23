@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/sanvo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:san.vo@mail.utoronto.ca"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://huggingface.co/svn05"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" /></a>
+  <a href="https://huggingface.co/sanvo"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" /></a>
 </p>
 
 <br>
