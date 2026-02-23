@@ -121,18 +121,6 @@ Real-time hand tracking with **MediaPipe** mapping 21-point landmarks to **10 cu
 
 <br>
 
-## Experience
-
-| Role | Organization | Period |
-|------|-------------|--------|
-| **Process Engineer Intern** | KTG Garment Co. (UNIQLO) | May – Aug 2025 |
-| **Visiting Scholar — AI in Aviation** | Carleton University | Jan 2024 – Jan 2025 |
-| **Opto-Mechanical Lead** | UofT Aerospace Team (UTAT) | Nov 2025 – Present |
-
-**1st Place** — Hack The North 2025 (RBC InvestEase)
-
-<br>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=svn05&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svn05&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165" />
