@@ -18,7 +18,6 @@ class SanVo:
         self.role = "AI/ML Engineer & Mechanical Engineering Student"
         self.school = "University of Toronto (BASc MechE + AI Minor)"
         self.graduation = 2028
-        self.languages = ["Vietnamese 🇻🇳", "English 🇨🇦", "Japanese 🇯🇵"]
 
     def interests(self):
         return [
@@ -29,7 +28,7 @@ class SanVo:
         ]
 ```
 
-**Mechanical Engineering** student at **UofT** with a minor in **Artificial Intelligence Engineering**. I build AI/ML systems focused on **Vietnamese NLP**, **multi-modal AI**, and **real-time computer vision**. Currently leading the opto-mechanical subsystem at **UTAT Space Systems** and exploring how AI transforms engineering workflows.
+**Mechanical Engineering** student @ **UofT** with a minor in **Artificial Intelligence Engineering**. On the computer-science side of things, I'm currently working on AI/ML systems focused on **Vietnamese NLP**, **multi-modal AI**, and **real-time computer vision**. Currently leading the opto-mechanical subsystem at **UTAT Space Systems** and exploring how AI transforms the more traditional mechanical engineering workflows and tasks—feel free to reach out.
 
 <br>
 
